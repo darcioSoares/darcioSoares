@@ -2,7 +2,7 @@
 #### 📊  I'm like study world Business
 #### You can contact me at [darciosoares28@gmail.com>](mailto:darciosoares28@gmail.com>)
 
-Full-Stack | PHP | Laravel | JavaScript | Vuejs | NodeJS | Cloud Jr. (Digital Ocean) | MySQL | MongoDB | Docker |
+Full-Stack | PHP | Laravel | JavaScript | Vuejs | NodeJS |TypeScript |Cloud Jr. (Digital Ocean) | MySQL | MongoDB | Docker |
 
 ### Skills
 

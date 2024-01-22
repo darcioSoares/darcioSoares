@@ -2,7 +2,7 @@
 #### 📊  I'm like study world Business
 #### You can contact me at [darciosoares28@gmail.com>](mailto:darciosoares28@gmail.com>)
 
-Full-Stack | PHP | Laravel | JAVA | Spring | JavaScript | Vuejs | NodeJS | TypeScript | Cloud Jr. (Digital Ocean) | MySQL |  Docker |
+Full-Stack | PHP | Laravel | JAVA | Spring | JavaScript | Vuejs | NodeJS  | Cloud Jr. (Digital Ocean) | MySQL |  Docker |
 
 ### Skills
 
@@ -10,7 +10,7 @@ Full-Stack | PHP | Laravel | JAVA | Spring | JavaScript | Vuejs | NodeJS | TypeS
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="java" /></a> 
-<a href="#" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" width="36" height="36" alt="spring" /></a>
+
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>  
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a> 

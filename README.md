@@ -1,6 +1,6 @@
 #### 💻  I'm **Darcio**, programmed FULLSTACK
 #### 📊  I'm like study world Business
-#### You can contact me at [darciosoares28@gmail.com>](mailto:darciosoares28@gmail.com>)
+#### You can contact me at [darciosoares28@gmail.com](mailto:darciosoares28@gmail.com>)
 
 ### Skills
 Full Stack | PHP | Laravel | NodeJS | TypeScript | Python | React | Nginx | Docker | Postgres |  

@@ -1,4 +1,4 @@
-#### 💻  I'm **Darcio**, programmed FULLSTACK
+#### 💻  I'm **Darcio**, developer FULLSTACK
 #### 📊  I'm like study world Business
 #### You can contact me at [darcio80@gmail.com](mailto:darcio80@gmail.com>)
 

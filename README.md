@@ -3,7 +3,7 @@
 #### You can contact me at [darcio80@gmail.com](mailto:darcio80@gmail.com>)
 
 ### Skills
-Full Stack | PHP | Laravel | NodeJS | TypeScript | Vuejs |Reactjs | Nginx | Docker | SQL |  
+Full Stack | PHP | Laravel | NodeJS | TypeScript | Go | Vuejs | Nginx | Docker | SQL |  
 
 ### Sobre
 - Sou Desenvolvedor a mais de 5 anos, atuando como full stack.
